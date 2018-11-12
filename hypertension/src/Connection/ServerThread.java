@@ -10,5 +10,5 @@ package Connection;
  * @author luchiparejo
  */
 public class ServerThread {
-    
+    //thread
 }
